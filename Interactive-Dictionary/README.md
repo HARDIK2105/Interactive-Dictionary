@@ -63,7 +63,3 @@ Even though the dictionary_7.py is the complete file, I made a new copy of that 
 ```
 python3 interactive_dictionary.py
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
